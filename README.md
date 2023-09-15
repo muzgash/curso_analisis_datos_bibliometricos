@@ -19,9 +19,9 @@ En este curso, se embarcará en una ruta de aprendizaje estructurada, que cubre 
   * Muestreo y normalización (expresiones regulares)
   * Visualizaciones avanzadas (páneles múltiples, geográficas, multivariadas +3 variables)
 * Metodologías en ciencia de datos (4 horas)
- * Introducción al procesamiento del lenguaje (nltk, spacy)
- * Clasificación (matriz de confusión, AUC, KNN, regresión logística)
- * Agrupación (k-medias, agrupación jerárquica)
- * Análisis de redes complejas (Construcción, tipología, características estructurales, visualizaciones)
+  * Introducción al procesamiento del lenguaje (nltk, spacy)
+  * Clasificación (matriz de confusión, AUC, KNN, regresión logística)
+  * Agrupación (k-medias, agrupación jerárquica)
+  * Análisis de redes complejas (Construcción, tipología, características estructurales, visualizaciones)
 
 Al perfeccionar estas habilidades, mejorará su capacidad para extraer información valiosa de los datos académicos. Únase a nosotros en este viaje, donde la precisión se une a la innovación. Su búsqueda de la excelencia en bibliometría comienza aquí, y juntos, elevaremos su investigación a niveles sin precedentes.
