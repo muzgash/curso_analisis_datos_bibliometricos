@@ -4,10 +4,11 @@ Bienvenido al curso de Análisis de Datos Bibliométricos, un viaje transformado
 
 En este curso, se embarcará en una ruta de aprendizaje estructurada, que cubre una amplia gama de temas:
 
-* Programación en python y algoritmia (2 horas)
-  * Variables y tipos de datos
-  * Control de flujo y funciones
-  * Uso e instalación de librerías
+* [Programación en python y algoritmia](https://github.com/muzgash/curso_analisis_datos_bibliometricos/tree/main/Programaci%C3%B3n%20en%20Python%20y%20Algoritmia) (2 horas)
+  * [Variables y tipos de datos](https://github.com/muzgash/curso_analisis_datos_bibliometricos/blob/main/Programaci%C3%B3n%20en%20Python%20y%20Algoritmia/Variables%20y%20Tipos%20de%20Datos.ipynb)
+  * [Control de flujo y funciones](https://github.com/muzgash/curso_analisis_datos_bibliometricos/blob/main/Programaci%C3%B3n%20en%20Python%20y%20Algoritmia/Control%20de%20flujo%20y%20funciones.ipynb)
+  * [Uso de librerías](https://github.com/muzgash/curso_analisis_datos_bibliometricos/blob/main/Programaci%C3%B3n%20en%20Python%20y%20Algoritmia/Librer%C3%ADas.ipynb)
+  * [Ejemplo: Simulación basada en agentes](https://github.com/muzgash/curso_analisis_datos_bibliometricos/blob/main/Programaci%C3%B3n%20en%20Python%20y%20Algoritmia/Simulaci%C3%B3n%20Basada%20en%20Agentes.ipynb)
 * Obtención de datos (2 horas)
   * Carga de datos desde archivos (json, csv, excel)
   * APIs (OpenAlex)
